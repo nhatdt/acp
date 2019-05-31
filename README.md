@@ -10,4 +10,4 @@
 ## Introduction
 This is ACP for FnF Project
 
-**This project does not support low version browsers (e.g. IE). Please add polyfill by yourself.**
+**This project does not support low version browsers (e.g. IE).**
